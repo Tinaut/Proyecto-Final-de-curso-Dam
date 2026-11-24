@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342853204689",
+    "firebase_url": "https://proyectofinalcurso-47a4d-default-rtdb.firebaseio.com",
+    "project_id": "proyectofinalcurso-47a4d",
+    "storage_bucket": "proyectofinalcurso-47a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342853204689:android:0f93e91e73c887dc7d63f0",
+        "android_client_info": {
+          "package_name": "com.example.projecto_final_curso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342853204689-outsd9b8hnus7a8h8vpgetf25n7vq07o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projecto_final_curso",
+            "certificate_hash": "ced940a3e23d6b56314354c25effa4c600411be7"
+          }
+        },
+        {
+          "client_id": "342853204689-7u9avo3v7totga0qqn15duve3bqsebqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR1-8HdBRQbX_onBjN4TBEsnJHtORhufw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342853204689-7u9avo3v7totga0qqn15duve3bqsebqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
