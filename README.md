@@ -222,4 +222,4 @@ local.properties
 
 **Jorge Tinaut Vazquez**
 Proyecto de final de curso, ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM).
-GitHub: [Tinaut](https://github.com/Tinaut)
+GitHub: [Tinaut](https://github.com/Tinaut) / [JorgeTV-daw](https://github.com/JorgeTV-daw)
