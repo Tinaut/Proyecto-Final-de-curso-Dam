@@ -3,7 +3,7 @@
 
     <string name="default_web_client_id">342853204689-7u9avo3v7totga0qqn15duve3bqsebqg.apps.googleusercontent.com</string>
 
-    <string name="mi_google_maps_apikey">AIzaSyDtySsCf8mKBfSamZVGkbA4ginUq5GJh6s</string>
+    <string name="mi_google_maps_apikey">TU_CLAVE_DE_API</string>
 
     <string name="Item_inicio">Inicio</string>
     <string name="Item_chats">Chats</string>
